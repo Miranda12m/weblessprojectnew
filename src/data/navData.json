@@ -1,0 +1,116 @@
+{
+  "nav": [
+    {
+      "nav_name": "Home",
+      "link": "/",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Services",
+      "link": "/services",
+      "type": "megamenu",
+      "full_width": false,
+      "sub_nav": [
+        {
+          "title": "Startup Solutions",
+          "data": [
+            {
+              "name": "Web Development",
+              "link": "/service-details?service=web-development"
+            },
+            {
+              "name": "Mobile Development",
+              "link": "/service-details?service=mobile-development"
+            },
+            {
+              "name": "Corporate Infrastructure",
+              "link": "/service-details?service=corporate-infrastructure"
+            },
+            {
+              "name": "Data Analysis",
+              "link": "/service-details?service=data-analysis"
+            },
+            {
+              "name": "SEO & SEM",
+              "link": "/service-details?service=search-engine-optimization"
+            },
+            {
+              "name": "Social Media Management",
+              "link": "/service-details?service=social-media-management"
+            },
+            {
+              "name": "Video Marketing",
+              "link": "/service-details?service=video-marketing"
+            },
+            {
+              "name": "Brand Management",
+              "link": "/service-details?service=brand-management"
+            }
+          ]
+        },
+        {
+          "title": "Corporate Solutions",
+          "data": [
+            {
+              "name": "Software Development",
+              "link": "/service-details?service=software-development"
+            },
+            {
+              "name": "Corporate Infrastructure",
+              "link": "/service-details?service=corporate-infrastructure"
+            },
+            {
+              "name": "IT Solutions",
+              "link": "/service-details?service=it-solutions"
+            },
+            {
+              "name": "Cloud Services",
+              "link": "/service-details?service=cloud-services"
+            },
+            {
+              "name": "IT Project Management",
+              "link": "/service-details?service=it-project-management"
+            },
+            {
+              "name": "Data Analysis & Big Data",
+              "link": "/service-details?service=big-data"
+            },
+            {
+              "name": "IT Recruitment",
+              "link": "/service-details?service=it-recruitment"
+            },
+            {
+              "name": "Telesourcing (VoIP)",
+              "link": "/service-details?service=telesourcing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nav_name": "OUR WORK",
+      "link": "/portfolio",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "ABOUT US",
+      "link": "/about",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Blog",
+      "link": "/blog",
+      "type": "",
+      "sub_nav": []
+    },
+    {
+      "nav_name": "Contact",
+      "link": "/contact",
+      "type": "",
+      "sub_nav": []
+    }
+  ]
+}
