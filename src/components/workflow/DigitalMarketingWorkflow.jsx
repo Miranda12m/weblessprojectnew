@@ -138,38 +138,23 @@ const DigitalMarketingWorkflow = () => {
                       choose us
                     </h2>
                     <h3 className="sec-title">
-                      Keword,Research Strategy, Survey, & Analytics
+                      Project Management & Analytics
                     </h3>
                     <p>
-                      Attention, we take out our round glasses and our sweater
-                      with elbow patches to go back to the origins of the user
-                      experience: the first mention of the user and its
-                      importance was born in the
+                      We excel in managing projects using SCRUM methodologies, ensuring efficiency and professionalism in every task. Our expertise in data analysis and AI allows us to provide insightful strategies that drive your business forward
                     </p>
                   </div>
-                  <ul className="research__tools">
-                    <li>
-                      <a href="#">Google</a>
-                    </li>
-                    <li>
-                      <a href="#">pinterest</a>
-                    </li>
-                    <li>
-                      <a href="#">Instagram</a>
-                    </li>
-                  </ul>
                 </div>
                 <div className="col-xxl-6 col-xl-6 col-lg-6">
                   <div className="research__list">
                     <div className="research__item">
                       <div className="research__number">
-                        <span>60%</span>
+                        <span>80%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Strategy</h4>
+                        <h4 className="research__title">Innovation</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Transform your business with cutting-edge technology solutions tailored to drive innovation and efficienc.
                         </p>
                       </div>
                     </div>
@@ -179,23 +164,21 @@ const DigitalMarketingWorkflow = () => {
                         <span>95%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Audience</h4>
+                        <h4 className="research__title">Expertise</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Leverage our deep industry knowledge to stay ahead of the curve with the latest in cloud computing, AI, and cybersecurity.
                         </p>
                       </div>
                     </div>
 
                     <div className="research__item">
                       <div className="research__number">
-                        <span>70%</span>
+                        <span>75%</span>
                       </div>
                       <div className="research__info">
-                        <h4 className="research__title">Keyword</h4>
+                        <h4 className="research__title">Optimization</h4>
                         <p>
-                          Your marketing strategy optimizing performances
-                          doesn’t have to be a guessing game.
+                          Maximize your IT infrastructure's potential with strategic planning and seamless implementation of advanced technologies.
                         </p>
                       </div>
                     </div>
@@ -221,31 +204,31 @@ const DigitalMarketingWorkflow = () => {
                 <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-5">
                   <div className="counter__wrapper-3">
                     <div className="counter__item-3">
-                      <h2 className="counter__number count1">25k</h2>
+                      <h2 className="counter__number count1">50+</h2>
                       <p>
                         Project <br />
                         completed
                       </p>
                     </div>
                     <div className="counter__item-3">
-                      <h2 className="counter__number count2">8k</h2>
+                      <h2 className="counter__number count2">125k</h2>
                       <p>
-                        Happy <br />
-                        customers
+                        Users <br />
+                        Reached
                       </p>
                     </div>
                     <div className="counter__item-3">
-                      <h2 className="counter__number count3">15</h2>
+                      <h2 className="counter__number count3">5+</h2>
                       <p>
                         Years <br />
                         experiences
                       </p>
                     </div>
                     <div className="counter__item-3">
-                      <h2 className="counter__number count4">98</h2>
+                      <h2 className="counter__number count4">98%</h2>
                       <p>
-                        Awards <br />
-                        achievement
+                        Customer <br />
+                        Satisfaction
                       </p>
                     </div>
                   </div>

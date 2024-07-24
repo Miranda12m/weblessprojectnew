@@ -124,7 +124,7 @@ const DigitalMarketingHero = () => {
               </div>
               <div className="video">
                 <video
-                  src="assets/video/hero-3.mp4"
+                  src="https://videos.pexels.com/video-files/6803583/6803583-uhd_2732_1440_25fps.mp4"
                   loop
                   muted
                   autoPlay
@@ -135,16 +135,16 @@ const DigitalMarketingHero = () => {
           </div>
         </div>
 
-        <div className="hero3-img-ani">
+        {/* <div className="hero3-img-ani">
           <Image
             priority
             width={1195}
-            style={{ height: "auto" }}
+            height={240}
             src={Hero31}
             alt="Hero Image"
             className="hero3-img"
           />
-        </div>
+        </div> */}
       </section>
     </>
   );
