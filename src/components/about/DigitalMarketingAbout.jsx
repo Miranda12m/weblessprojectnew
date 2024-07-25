@@ -51,7 +51,7 @@ const DigitalMarketingAbout = () => {
               <div className="sec-text-wrapper">
                 <div className="sec-text text-anim">
                   <p>
-                    We're a team of passionate IT, Creative, and Marketing specialists dedicated to 
+                    Were a team of passionate IT, Creative, and Marketing specialists dedicated to 
                     helping businesses of all sizes achieve their goals. We believe in the power of 
                     integrated solutions, seamlessly combining strategy, design, technology, and data 
                     to unlock your full potential.
